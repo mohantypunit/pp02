@@ -16,13 +16,11 @@ We need the following installations on our local machine to run this projecct lo
 
 We can install all the above tools using the Chocolatey package manager on Windows.
 
-Follow the following links to install the above tools using Chocolatey:
-
+Follow the links below to install the above tools: 
     - [Chocolatey](https://chocolatey.org/install)
     - [Docker Desktop](https://chocolatey.org/packages/docker-desktop)
     - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/#install-kubectl-binary-using-chocolatey-on-windows)
     - [flux](https://community.chocolatey.org/packages/flux)
     - [helm](https://community.chocolatey.org/packages/helm)
 
-
-
+Excluding chocolatey all other tools can be installed using `choco install <tool-name>` command.
