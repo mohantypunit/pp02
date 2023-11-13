@@ -16,7 +16,7 @@ We need the following installations on our local machine to run this projecct lo
 
 We can install all the above tools using the Chocolatey package manager on Windows.
 
-Follow the following links to install the above tools using Chocolatey
+Follow the links to install these tools (you can use chocolatey to inistall rest of the tools by just runnig `choco install <app_name>`)
    
  -  [Chocolatey](https://chocolatey.org/install)
  -  [Docker Desktop](https://chocolatey.org/packages/docker-desktop)
