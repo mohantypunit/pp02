@@ -1,4 +1,4 @@
-# pp02
+# GitOps using Flux in monorepo pattern
 Practice Project #2 : GitOps using Flux in monorepo pattern
 
 As we choose monorepo pattern for our project, we need to use a single git repository for all the components of our project including infra and application code. 
