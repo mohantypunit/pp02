@@ -8,13 +8,6 @@ infra code lies in the "infra/" folder and application code lies in the "app/" f
 clusters folder contains different cluster definitions in different folders. Here there are two folders for two clusters i.e. staging and prod.
 
 ## Prerequisites
-We need the following installations on our local machine to run this projecct locally:
-    * Docker Desktop
-    * kubectl (Kubernetes CLI)
-    * flux (GitOps tool)
-    * helm (Package manager for Kubernetes)
-
-We can install all the above tools using the Chocolatey package manager on Windows.
 
 Follow the links to install these tools (you can use chocolatey to inistall rest of the tools by just runnig `choco install <tool_name>` command)
    
